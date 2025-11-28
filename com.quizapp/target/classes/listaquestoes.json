@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "question": "A respeito da BIOS, Basic Input/Output System, assinale a alternativa que indica corretamente um papel que ela desempenha junto ao hardware presente em um Personal Computer (PC).",
+    "options": [
+      "Realiza aceleração no processamento da placa de vídeo do computador.",
+      "É responsável por realizar testes em dispositivos de hardware na inicialização do sistema operacional.",
+      "É responsável por gerenciar o fluxo de conexão da Internet, tornando-o mais rápido e evitando travamentos.",
+      "É responsável apenas por estabilizar a fonte de energia caso ocorra oscilação na rede elétrica.",
+      "Realiza a criptografia de todas as informações armazenadas no PC."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 2,
+    "question": "O Writer é o aplicativo editor de textos presente no pacote LibreOffice. Assinale a alternativa que indica, respectivamente, as teclas de atalho para os recursos de verificação ortográfica e criação de tabelas.",
+    "options": [
+      "Ctrl + O e Ctrl + T",
+      "F7 e Ctrl + F12",
+      "Ctrl + O e F10",
+      "F9 e F12",
+      "F5 + Ctrl + T"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 3,
+    "question": "A respeito da utilização da memória RAM dos computadores, qual recurso permite que os periféricos acessem a memória sem demandar a CPU?",
+    "options": ["Paginação", "Threads", "Segmentação", "Escalonamento", "DMA"],
+    "answerIndex": 4
+  },
+  {
+    "id": 4,
+    "question": "Qual sistema de arquivos é suportado nativamente pelo Microsoft Windows 7?",
+    "options": ["NTFS", "Ext3", "HFS", "JFS", "HPFS"],
+    "answerIndex": 0
+  },
+  {
+    "id": 5,
+    "question": "O padrão FDDI (Fiber Distributed Data Interface) é utilizado em redes do tipo MAN. Qual topologia de rede ele utiliza?",
+    "options": ["Star (Estrela)", "Bus (Barramento)", "Mesh (Malha)", "Tree (Árvore)", "Ring (Anel)"],
+    "answerIndex": 4
+  },
+  {
+    "id": 6,
+    "question": "Qual sistema tornou obsoleto o conceito de classes de endereço A, B e C para IP?",
+    "options": ["AdHoc", "Samba", "NAT", "NFS", "CIDR"],
+    "answerIndex": 4
+  },
+  {
+    "id": 7,
+    "question": "No Linux, qual comando exibe o uso da memória RAM e do espaço em disco?",
+    "options": ["cat e du", "locate e df", "cat e free", "free e df", "du e free"],
+    "answerIndex": 3
+  },
+  {
+    "id": 8,
+    "question": "Qual protocolo realiza a tradução de endereços IP em redes locais para acessar a Internet?",
+    "options": ["HTTP", "NAT", "DNS", "DHCP", "SSH"],
+    "answerIndex": 1
+  },
+  {
+    "id": 9,
+    "question": "Indique, respectivamente, ameaças que: 1. Permitem acesso remoto ao ambiente e 2. Estão escondidas em apps aparentemente inofensivos.",
+    "options": ["Keyloggers e Spywares", "Cavalos de Tróia e Worms", "Backdoors e Cavalos de Tróia", "Worms e Spywares", "Spywares e Worms"],
+    "answerIndex": 2
+  },
+  {
+    "id": 10,
+    "question": "Dado o número decimal 345, suas representações em binário e hexadecimal são, respectivamente:",
+    "options": ["1001110110 e 15A", "101011010 e 1A9", "101011011 e 158", "101011001 e 159", "101010111 e 1B1"],
+    "answerIndex": 1
+  },
+  {
+    "id": 11,
+    "question": "No Linux, qual comando altera permissões de arquivos ou pastas?",
+    "options": ["chown", "perm", "access", "chmod", "rights"],
+    "answerIndex": 3
+  },
+  {
+    "id": 12,
+    "question": "Qual dispositivo de rede conecta redes diferentes e encaminha pacotes baseado em endereços IP?",
+    "options": ["Hub", "Roteador", "Access Point", "Modem", "Switch"],
+    "answerIndex": 1
+  },
+  {
+    "id": 13,
+    "question": "No Windows, qual utilitário permite visualizar e gerenciar processos pelo PID ou nome?",
+    "options": ["tasklist", "ps", "kill", "taskkill", "processmgr"],
+    "answerIndex": 3
+  },
+  {
+    "id": 14,
+    "question": "Qual padrão Wi-Fi opera em 5 GHz, oferecendo maior largura de banda e menos interferência?",
+    "options": ["802.11b", "802.11g", "802.11n", "802.11ac", "802.11a"],
+    "answerIndex": 3
+  },
+  {
+    "id": 15,
+    "question": "Ao crimpar um cabo Ethernet crossover para conectar dois switches antigos sem MDI-X, qual pinagem usar?",
+    "options": ["duas extremidades com T568A", "duas extremidades com T568B", "uma extremidade T568A e outra T568B", "T568A em uma extremidade e aleatória na outra", "T568B e pinagem reversa"],
+    "answerIndex": 2
+  },
+  {
+    "id": 16,
+    "question": "Qual técnica de ataque envia e-mails falsos para obter informações sensíveis?",
+    "options": ["Phishing", "Ransomware", "Engenharia social", "DDoS", "Cavalo de Troia"],
+    "answerIndex": 0
+  },
+  {
+    "id": 17,
+    "question": "Qual KPI mede o tempo de resposta inicial a chamados no suporte técnico?",
+    "options": ["MTTA", "MTBF", "MTTR", "SLA", "Uptime do sistema"],
+    "answerIndex": 0
+  },
+  {
+    "id": 18,
+    "question": "No GIT, vários commits podem ser feitos antes de realizar um push para atualizar o servidor remoto?",
+    "options": [
+      "Um commit é envio remoto.",
+      "Um pull é necessário quando dados do servidor remoto estão desatualizados.",
+      "Um push atualiza o servidor local.",
+      "Commit e push sempre atualizam a versão local.",
+      "Vários commits podem ser feitos antes do push para atualizar mudanças no servidor."
+    ],
+    "answerIndex": 4
+  },
+  {
+    "id": 19,
+    "question": "Durante a execução de um programa, qual a sequência correta de busca de dados?",
+    "options": [
+      "Memória RAM -> Cache L1 -> Cache L2 -> Cache L3 -> Armazenamento Secundário",
+      "Cache L3 -> Cache L2 -> Cache L1 -> Memória RAM -> Armazenamento Secundário",
+      "ROM -> Cache L1 -> Cache L2 -> Memória RAM -> Armazenamento Secundário",
+      "Cache L2 -> Cache L1 -> Cache L3 -> Armazenamento Secundário -> Memória RAM",
+      "Cache L1 -> Cache L2 -> Cache L3 -> Memória RAM -> Armazenamento Secundário"
+    ],
+    "answerIndex": 4
+  },
+  {
+    "id": 20,
+    "question": "Para a máscara de sub-rede 255.255.255.224, qual a notação CIDR e quantidade de endereços IP utilizáveis?",
+    "options": [
+      "/26, com 62 endereços utilizáveis",
+      "/28, com 14 endereços utilizáveis",
+      "/25, com 126 endereços utilizáveis",
+      "/24, com 254 endereços utilizáveis",
+      "/27, com 30 endereços utilizáveis"
+    ],
+    "answerIndex": 0
+  }
+]

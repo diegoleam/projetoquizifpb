@@ -1,0 +1,362 @@
+[
+  {
+    "id": 1,
+    "question": "No Windows 10, qual atalho permite alternar rapidamente entre janelas abertas?",
+    "options": ["Alt + F4", "Ctrl + C", "Alt + Tab", "Windows + D", "Ctrl + Alt + Del"],
+    "answerIndex": 2
+  },
+  {
+    "id": 2,
+    "question": "Em redes de computadores, o protocolo FTP é usado para:",
+    "options": ["Navegar em páginas web", "Enviar e receber arquivos", "Criptografar dados", "Gerenciar endereços IP", "Monitorar tráfego"],
+    "answerIndex": 1
+  },
+  {
+    "id": 3,
+    "question": "Qual das alternativas indica um sistema operacional de código aberto?",
+    "options": ["Windows 10", "macOS", "Linux", "iOS", "MS-DOS"],
+    "answerIndex": 2
+  },
+  {
+    "id": 4,
+    "question": "No Excel, qual função permite somar apenas valores que atendem a um critério?",
+    "options": ["SOMA", "SOMASE", "MÉDIA", "CONT.VALORES", "PROCV"],
+    "answerIndex": 1
+  },
+  {
+    "id": 5,
+    "question": "O endereço IP 192.168.0.1 é usado normalmente como:",
+    "options": ["Endereço público", "Endereço de loopback", "Gateway padrão de rede local", "Endereço de broadcast", "Servidor DNS"],
+    "answerIndex": 2
+  },
+  {
+    "id": 6,
+    "question": "Em segurança da informação, ransomware é:",
+    "options": ["Um vírus que apaga arquivos", "Um software que sequestra dados e pede resgate", "Um firewall avançado", "Um protocolo de autenticação", "Uma linguagem de programação maliciosa"],
+    "answerIndex": 1
+  },
+  {
+    "id": 7,
+    "question": "Qual protocolo garante a transmissão segura de dados via Internet?",
+    "options": ["HTTP", "HTTPS", "FTP", "SMTP", "TELNET"],
+    "answerIndex": 1
+  },
+  {
+    "id": 8,
+    "question": "No LibreOffice Writer, a função 'Controlar alterações' serve para:",
+    "options": ["Desfazer alterações", "Rastrear edições no documento", "Converter em PDF", "Mesclar documentos", "Imprimir resumo"],
+    "answerIndex": 1
+  },
+  {
+    "id": 9,
+    "question": "O comando 'ipconfig' no Windows é usado para:",
+    "options": ["Configurar impressoras", "Ver informações de rede e IP", "Gerenciar contas de usuário", "Iniciar programas", "Atualizar drivers"],
+    "answerIndex": 1
+  },
+  {
+    "id": 10,
+    "question": "Em Linux, qual comando cria um diretório?",
+    "options": ["rm", "mkdir", "ls", "cd", "touch"],
+    "answerIndex": 1
+  },
+  {
+    "id": 11,
+    "question": "O que é uma VPN (Virtual Private Network)?",
+    "options": ["Uma rede física de cabos", "Um software antivírus", "Uma rede segura sobre a Internet", "Um protocolo de e-mail", "Um firewall de hardware"],
+    "answerIndex": 2
+  },
+  {
+    "id": 12,
+    "question": "Qual ferramenta do Windows permite restaurar o sistema a um ponto anterior?",
+    "options": ["CHKDSK", "Restauração do Sistema", "Gerenciador de Tarefas", "Painel de Controle", "CMD"],
+    "answerIndex": 1
+  },
+  {
+    "id": 13,
+    "question": "O que significa BIOS em um computador?",
+    "options": ["Basic Input Output System", "Binary Internal Operating System", "Basic Internet Operations Service", "Boot Internal Output System", "Binary Input Output Service"],
+    "answerIndex": 0
+  },
+  {
+    "id": 14,
+    "question": "Em segurança, o termo phishing significa:",
+    "options": ["Ataque por força bruta", "Roubo de informações via e-mail falso", "Criptografia de dados", "Ataque de negação de serviço", "Firewall avançado"],
+    "answerIndex": 1
+  },
+  {
+    "id": 15,
+    "question": "No Excel, a função PROCV é usada para:",
+    "options": ["Pesquisar valores horizontalmente", "Pesquisar valores verticalmente", "Somar células", "Converter texto em número", "Contar valores distintos"],
+    "answerIndex": 1
+  },
+  {
+    "id": 16,
+    "question": "Em Linux, o diretório /etc contém:",
+    "options": ["Arquivos temporários", "Configurações do sistema", "Programas instalados", "Dados de usuários", "Logs de rede"],
+    "answerIndex": 1
+  },
+  {
+    "id": 17,
+    "question": "O comando CHKDSK no Windows serve para:",
+    "options": ["Verificar e corrigir erros no disco", "Atualizar drivers", "Configurar rede", "Gerenciar contas de usuário", "Desfragmentar memória RAM"],
+    "answerIndex": 0
+  },
+  {
+    "id": 18,
+    "question": "Qual porta padrão utiliza o protocolo HTTPS?",
+    "options": ["21", "25", "80", "22", "443"],
+    "answerIndex": 4
+  },
+  {
+    "id": 19,
+    "question": "O que é memória RAM?",
+    "options": ["Memória de armazenamento permanente", "Memória de vídeo exclusiva", "Memória volátil para execução de programas", "Memória de backup em nuvem", "Memória virtual"],
+    "answerIndex": 2
+  },
+  {
+    "id": 20,
+    "question": "Em TI, RAID 1 é conhecido por:",
+    "options": ["Striping com paridade", "Espelhamento de discos", "Distribuição de dados", "Criptografia de arquivos", "Compactação de dados"],
+    "answerIndex": 1
+  },
+  {
+    "id": 21,
+    "question": "O endereço IPv4 127.0.0.1 é conhecido como:",
+    "options": ["Endereço público", "Gateway", "Loopback", "Broadcast", "DNS"],
+    "answerIndex": 2
+  },
+  {
+    "id": 22,
+    "question": "Qual é a função do UPS (no-break)?",
+    "options": ["Aumentar velocidade do processador", "Fornecer energia por curto período", "Armazenar dados", "Refrigerar o gabinete", "Gerenciar rede"],
+    "answerIndex": 1
+  },
+  {
+    "id": 23,
+    "question": "O que é uma tabela no SQL?",
+    "options": ["Um tipo de banco de dados", "Um conjunto de colunas e linhas que armazenam dados", "Uma linguagem de programação", "Um protocolo de rede", "Um comando de sistema operacional"],
+    "answerIndex": 1
+  },
+  {
+    "id": 24,
+    "question": "O que significa HTTPS?",
+    "options": ["Hyper Text Transfer Protocol Secure", "Hyper Text Transfer Port Service", "Hyper Transfer Text Protocol System", "Hyperlink Text Transfer Secure", "Hyper Text Transmission Protocol Service"],
+    "answerIndex": 0
+  },
+  {
+    "id": 25,
+    "question": "No LibreOffice Calc, qual função conta células com critérios específicos?",
+    "options": ["SOMA", "SOMASE", "CONT.VALORES", "CONT.SE", "MÉDIASE"],
+    "answerIndex": 3
+  },
+  {
+    "id": 26,
+    "question": "Em sistemas operacionais, o que é multitarefa?",
+    "options": ["Execução de múltiplos programas simultaneamente", "Atualização automática de software", "Backup de dados em nuvem", "Conexão com vários usuários", "Gerenciamento de redes locais"],
+    "answerIndex": 0
+  },
+  {
+    "id": 27,
+    "question": "Qual é o principal objetivo do DNS na Internet?",
+    "options": ["Proteger dados com criptografia", "Converter nomes de domínio em endereços IP", "Armazenar arquivos temporários", "Gerenciar firewall de rede", "Enviar e-mails automaticamente"],
+    "answerIndex": 1
+  },
+  {
+    "id": 28,
+    "question": "O que significa a sigla HTML?",
+    "options": ["HyperText Markup Language", "HighText Management Language", "Hyperlink and Text Module Language", "Host Transfer Markup Language", "Hyperlink Text Main Language"],
+    "answerIndex": 0
+  },
+  {
+    "id": 29,
+    "question": "Em bancos de dados relacionais, a chave primária serve para:",
+    "options": ["Criptografar informações", "Identificar unicamente cada registro", "Armazenar arquivos temporários", "Conectar diferentes bancos", "Gerar relatórios automáticos"],
+    "answerIndex": 1
+  },
+  {
+    "id": 30,
+    "question": "O comando 'ping' é usado para:",
+    "options": ["Testar conectividade de rede", "Apagar arquivos temporários", "Atualizar drivers", "Criar diretórios", "Iniciar programas"],
+    "answerIndex": 0
+  },
+  {
+    "id": 31,
+    "question": "Qual é a função do cache em computadores?",
+    "options": ["Armazenar dados permanentemente", "Acelerar o acesso a informações frequentemente usadas", "Gerenciar energia da CPU", "Proteger contra vírus", "Controlar memória virtual"],
+    "answerIndex": 1
+  },
+  {
+    "id": 32,
+    "question": "No Windows, o Gerenciador de Tarefas permite:",
+    "options": ["Criar senhas seguras", "Monitorar aplicativos e processos em execução", "Editar planilhas", "Configurar impressoras", "Instalar sistemas operacionais"],
+    "answerIndex": 1
+  },
+  {
+    "id": 33,
+    "question": "O que é software livre?",
+    "options": ["Programa pago para empresas", "Software com código-fonte aberto e livre para uso", "Programa apenas para Windows", "Software que não pode ser modificado", "Aplicativo de segurança"],
+    "answerIndex": 1
+  },
+  {
+    "id": 34,
+    "question": "Qual é a função de um firewall?",
+    "options": ["Aumentar a velocidade do processador", "Filtrar e controlar o tráfego de rede", "Armazenar arquivos na nuvem", "Gerenciar senhas de usuários", "Desfragmentar o disco rígido"],
+    "answerIndex": 1
+  },
+  {
+    "id": 35,
+    "question": "No Excel, a função CONCATENAR serve para:",
+    "options": ["Somar valores de células", "Mesclar o conteúdo de várias células em uma", "Contar números em um intervalo", "Pesquisar valores", "Converter texto em número"],
+    "answerIndex": 1
+  },
+  {
+    "id": 36,
+    "question": "Em HTML, a tag <a> é usada para:",
+    "options": ["Criar links", "Definir parágrafos", "Adicionar imagens", "Inserir tabelas", "Formatação de títulos"],
+    "answerIndex": 0
+  },
+  {
+    "id": 37,
+    "question": "O protocolo SMTP é utilizado para:",
+    "options": ["Transferência de arquivos", "Envio de e-mails", "Navegação web", "Segurança em redes", "Criptografia de dados"],
+    "answerIndex": 1
+  },
+  {
+    "id": 38,
+    "question": "O que significa SSD?",
+    "options": ["Solid State Drive", "Storage System Device", "Secure Storage Disk", "System Software Drive", "Serial Storage Disk"],
+    "answerIndex": 0
+  },
+  {
+    "id": 39,
+    "question": "Qual é a função da memória ROM?",
+    "options": ["Armazenar dados temporários", "Executar programas do usuário", "Armazenar dados permanentemente e não volátil", "Aumentar a velocidade da CPU", "Gerenciar conexões de rede"],
+    "answerIndex": 2
+  },
+  {
+    "id": 40,
+    "question": "O que é phishing?",
+    "options": ["Técnica de marketing", "Ataque para obter informações confidenciais via e-mail", "Tipo de firewall", "Protocolo de rede", "Linguagem de programação maliciosa"],
+    "answerIndex": 1
+  },
+  {
+    "id": 41,
+    "question": "O comando 'chmod' no Linux serve para:",
+    "options": ["Alterar permissões de arquivos", "Listar diretórios", "Mover arquivos", "Criar usuários", "Conectar a rede"],
+    "answerIndex": 0
+  },
+  {
+    "id": 42,
+    "question": "No Excel, qual função retorna o maior valor de um intervalo?",
+    "options": ["MÁXIMO", "MÍNIMO", "SOMA", "MÉDIA", "CONT.SE"],
+    "answerIndex": 0
+  },
+  {
+    "id": 43,
+    "question": "O que é backup incremental?",
+    "options": ["Copia apenas os arquivos novos ou modificados desde o último backup", "Copia todos os arquivos do sistema", "Exclui arquivos antigos", "Atualiza apenas software", "Protege contra vírus"],
+    "answerIndex": 0
+  },
+  {
+    "id": 44,
+    "question": "O que significa URL?",
+    "options": ["Uniform Resource Locator", "Universal Resource Link", "Unified Remote Location", "User Resource Locator", "Uniform Resource Link"],
+    "answerIndex": 0
+  },
+  {
+    "id": 45,
+    "question": "Qual é a função do comando 'top' em Linux?",
+    "options": ["Exibir os processos em execução e uso de recursos", "Atualizar pacotes do sistema", "Listar diretórios", "Alterar permissões de arquivos", "Reiniciar o sistema"],
+    "answerIndex": 0
+  },
+  {
+    "id": 46,
+    "question": "Qual extensão indica um arquivo Java?",
+    "options": [".class", ".exe", ".java", ".txt", ".jar"],
+    "answerIndex": 2
+  },
+  {
+    "id": 47,
+    "question": "O protocolo POP3 é usado para:",
+    "options": ["Receber e-mails", "Enviar e-mails", "Navegar na web", "Gerenciar rede", "Transferir arquivos"],
+    "answerIndex": 0
+  },
+  {
+    "id": 48,
+    "question": "Em HTML, a tag <img> serve para:",
+    "options": ["Inserir imagens", "Criar links", "Formatar textos", "Criar listas", "Inserir tabelas"],
+    "answerIndex": 0
+  },
+  {
+    "id": 49,
+    "question": "O que é uma tabela hash?",
+    "options": ["Estrutura para armazenar e acessar dados rapidamente", "Software de gerenciamento", "Protocolo de rede", "Antivírus", "Sistema de backup"],
+    "answerIndex": 0
+  },
+  {
+    "id": 50,
+    "question": "No Linux, qual comando exibe arquivos em um diretório?",
+    "options": ["ls", "cd", "mv", "rm", "chmod"],
+    "answerIndex": 0
+  },
+  {
+    "id": 51,
+    "question": "O que é cloud computing?",
+    "options": ["Armazenamento em nuvem e serviços remotos", "Rede física de computadores", "Firewall avançado", "Sistema operacional", "Linguagem de programação"],
+    "answerIndex": 0
+  },
+  {
+    "id": 52,
+    "question": "Qual é a função do comando 'df' no Linux?",
+    "options": ["Exibir espaço em disco", "Alterar permissões de arquivo", "Listar processos", "Mover arquivos", "Reiniciar o sistema"],
+    "answerIndex": 0
+  },
+  {
+    "id": 53,
+    "question": "O que é OCR (Optical Character Recognition)?",
+    "options": ["Reconhecimento óptico de caracteres", "Protocolo de rede", "Software de backup", "Sistema de firewall", "Memória volátil"],
+    "answerIndex": 0
+  },
+  {
+    "id": 54,
+    "question": "Qual comando no Windows exibe a tabela de roteamento?",
+    "options": ["tracert", "route print", "ipconfig", "netstat", "ping"],
+    "answerIndex": 1
+  },
+  {
+    "id": 55,
+    "question": "Em programação, o que é um array?",
+    "options": ["Estrutura de dados que armazena múltiplos valores", "Função matemática", "Protocolo de rede", "Sistema de arquivos", "Software antivírus"],
+    "answerIndex": 0
+  },
+  {
+    "id": 56,
+    "question": "O que significa BIOS?",
+    "options": ["Basic Input Output System", "Binary Internal Operating System", "Boot Internet Operating Service", "Basic Internal Output System", "Binary Input Operating System"],
+    "answerIndex": 0
+  },
+  {
+    "id": 57,
+    "question": "Qual é a função do protocolo DHCP?",
+    "options": ["Atribuir automaticamente endereços IP em uma rede", "Transferir arquivos", "Encriptar dados", "Enviar e-mails", "Controlar firewall"],
+    "answerIndex": 0
+  },
+  {
+    "id": 58,
+    "question": "Qual é a extensão padrão de arquivos PDF?",
+    "options": [".pdf", ".doc", ".xls", ".txt", ".ppt"],
+    "answerIndex": 0
+  },
+  {
+    "id": 59,
+    "question": "O que é um cookie na web?",
+    "options": ["Arquivo que armazena informações do usuário", "Programa malicioso", "Sistema operacional", "Antivírus", "Protocolo de rede"],
+    "answerIndex": 0
+  },
+  {
+    "id": 60,
+    "question": "Qual é a função do comando 'mkdir' no Linux?",
+    "options": ["Criar diretórios", "Apagar arquivos", "Mover arquivos", "Listar diretórios", "Alterar permissões"],
+    "answerIndex": 0
+  }
+]
